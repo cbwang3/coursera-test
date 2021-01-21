@@ -1,2 +1,2 @@
-# church-in-jax
-Church in Jacksonville website
+# coursera-test
+coursera test repository
